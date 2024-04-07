@@ -1,0 +1,5 @@
+print("Hello World")
+print("Halo, nama saya Masahiro Benz Soeryo")
+print("NIM saya A11.2022.14628")
+print("Saya dari kelompok A11.4410 mata kuliah Pembelajaran Mesin")
+print("Saya sedang belajar Python")
